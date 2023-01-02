@@ -1,6 +1,6 @@
 FROM amazoncorretto:19.0.1-alpine
 
-MAINTAINER emaaristimuno
+LABEL MAINTAINER = "emaaristimuno"
 
 COPY target/dz-0.0.1-SNAPSHOT.jar dz-0.0.1-SNAPSHOT.jar
 
