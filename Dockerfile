@@ -1,4 +1,4 @@
-FROM amazoncorretto:19.0.1-alpine
+FROM amazoncorretto:19-alpine-jdk
 
 MAINTAINER emaaristimuno
 
