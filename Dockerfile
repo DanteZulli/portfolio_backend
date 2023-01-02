@@ -1,4 +1,4 @@
-FROM amazoncorretto:19.0.1-alpine3.16
+FROM amazoncorretto:19.0.1-alpine
 
 MAINTAINER emaaristimuno
 
