@@ -1,4 +1,4 @@
-FROM amazoncorretto:19-alpine-full
+FROM amazoncorretto:19
 
 MAINTAINER emaaristimuno
 
