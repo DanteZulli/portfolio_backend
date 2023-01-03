@@ -24,6 +24,7 @@ com\portfolio\dz\Security\Enums\RolNombre.class
 com\portfolio\dz\Dto\dtoEducacion.class
 com\portfolio\dz\Repository\IExperienciaRepository.class
 com\portfolio\dz\Repository\RProyectos.class
+com\portfolio\dz\WebConfig.class
 com\portfolio\dz\Entity\Educacion.class
 com\portfolio\dz\Security\Repository\IUsuarioRepository.class
 com\portfolio\dz\Entity\Experiencia.class
