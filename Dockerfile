@@ -1,4 +1,4 @@
-FROM amazoncorretto:19
+FROM amazoncorretto:19-alpine
 
 MAINTAINER emaaristimuno
 
